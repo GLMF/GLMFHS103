@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    color: #128;
+}
+
+ul {
+    list-style-type: square;
+}
+
+button {
+    height: 30px;
+    width: 30px;
+    outline: none;
+    color: blue;
+}
+
+p {
+    color: blue;
+}
+
+html, body {
+    width: 100px;
+}
